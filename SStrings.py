@@ -1,4 +1,4 @@
-SToken = "492452548:AAHRtjPQQ-yc9c6BAZEDE0_FxuwEsaN597A"
+SToken = "unknown"
 
 SAnswerHZ = "Я хз что с эти пока делать ¯\_(ツ)_/¯"
 
